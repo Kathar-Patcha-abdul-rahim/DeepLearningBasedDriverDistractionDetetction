@@ -37,7 +37,7 @@ Driver distraction is a leading cause of accidents on the road. This project aim
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/driver-distraction-detection.git
+    git clone https://github.com/kathar-patcha-abdul-rahim/driver-distraction-detection.git
     cd driver-distraction-detection
     ```
 2. Install dependencies:
